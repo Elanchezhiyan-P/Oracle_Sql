@@ -1,0 +1,1 @@
+ Select First_name,SALARY from employees order by salary DESC;

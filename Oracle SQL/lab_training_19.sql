@@ -1,0 +1,1 @@
+  select First_name FROM EMPLOYEES where First_name LIKE 'S%';

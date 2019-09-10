@@ -1,0 +1,1 @@
+Select * from (select * from employees) where rownum <= 10;

@@ -1,0 +1,1 @@
+select salary*0.1 from employees where commission_pct is null;

@@ -1,0 +1,1 @@
+  Select EMPLOYEE_ID, salary+Commission_pct as annaul_salary from employees;

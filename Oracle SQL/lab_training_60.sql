@@ -1,0 +1,1 @@
+Select Substr('Oracle','2','3') from dual;

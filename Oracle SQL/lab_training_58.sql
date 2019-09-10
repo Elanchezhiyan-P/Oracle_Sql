@@ -1,0 +1,1 @@
+SELECT length(First_name) FROM EMPLOYEES;

@@ -1,0 +1,1 @@
+ Select Sum(salary) from employees where JOB_ID like '%CLERK%' and DEPARTMENT_ID = 40;

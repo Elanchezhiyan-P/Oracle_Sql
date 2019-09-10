@@ -1,0 +1,1 @@
+SELECT EMPLOYEE_ID, FIRST_NAME from employees where COMMISSION_PCT = 0;

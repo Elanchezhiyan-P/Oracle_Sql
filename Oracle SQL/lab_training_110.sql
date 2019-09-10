@@ -1,0 +1,1 @@
+select First_name from employees group by First_name having count(*) > 1;

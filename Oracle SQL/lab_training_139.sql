@@ -1,0 +1,1 @@
+create table newemp as select empno,ename from emp ;

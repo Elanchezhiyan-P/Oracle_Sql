@@ -1,0 +1,1 @@
+SELECT JOB_ID, count(*) FROM EMPLOYEES GROUP BY JOB_ID having Count(*) > 3;

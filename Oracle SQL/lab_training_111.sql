@@ -1,0 +1,1 @@
+select reverse(First_name), first_name from employees;

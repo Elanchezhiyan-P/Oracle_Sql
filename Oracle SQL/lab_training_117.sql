@@ -1,0 +1,1 @@
+select e.Employee_id, e.First_name, d.Location_id from employees e, Departments d where e.employee_id = d.department_id;

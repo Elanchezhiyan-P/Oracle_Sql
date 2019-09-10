@@ -1,0 +1,1 @@
+delete from employees where (sysdate-hire_date)/2*365;

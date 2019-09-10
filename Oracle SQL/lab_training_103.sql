@@ -1,0 +1,1 @@
+delete from employees where department_id=(select department_id from employees group by department_id having count(department_id)<3);

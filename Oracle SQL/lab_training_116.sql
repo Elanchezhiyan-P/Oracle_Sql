@@ -1,0 +1,1 @@
+Update employees set commission_pct = salary*0.1 where commission_pct is not null;

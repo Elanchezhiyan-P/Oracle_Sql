@@ -1,0 +1,1 @@
+SELECT Lower(First_name) FROM EMPLOYEES;

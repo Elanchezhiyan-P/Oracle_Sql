@@ -1,0 +1,1 @@
+select employee_id, first_name from employees where job_id like '%MAN';

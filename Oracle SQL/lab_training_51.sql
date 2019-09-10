@@ -1,0 +1,1 @@
+Select First_name from employees where First_name like 'A_B%';

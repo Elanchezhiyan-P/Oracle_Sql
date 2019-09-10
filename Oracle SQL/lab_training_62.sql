@@ -1,0 +1,1 @@
+select to_char(sysdate,'ddth Month day year') from dual;

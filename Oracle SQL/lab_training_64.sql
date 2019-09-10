@@ -1,0 +1,1 @@
+  SELECT next_day (Sysdate, 'Saturday') from dual;

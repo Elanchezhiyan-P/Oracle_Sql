@@ -1,0 +1,1 @@
+  select First_name, LAST_NAME FROM EMPLOYEES where LAST_NAME LIKE '%s';
